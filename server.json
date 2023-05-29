@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-19T02:12:08.039Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2023-05-11T02:12:08.039Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-05-02T02:12:08.039Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-05-19T04:18:29.387Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2023-05-19T04:23:40.674Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de morango",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2023-05-19T04:32:30.870Z",
+      "id": 6
+    },
+    {
+      "description": "Caneta",
+      "category": "Papelaria",
+      "price": 3,
+      "type": "outcome",
+      "createdAt": "2023-05-19T04:33:11.176Z",
+      "id": 7
+    }
+  ]
+}
